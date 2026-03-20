@@ -28,11 +28,11 @@
         </developer>
     </developers>
 
-    <scm>
-        <connection>scm:git:git://github.com/Mohammad9448/lib-a.git</connection>
-        <developerConnection>scm:git:ssh://github.com/Mohammad9448/lib-a.git</developerConnection>
-        <url>https://github.com/Mohammad9448/lib-a</url>
-    </scm>
+<scm>
+    <connection>scm:git:https://github.com/Mohammad9448/lib-b.git</connection>
+    <developerConnection>scm:git:https://github.com/Mohammad9448/lib-b.git</developerConnection>
+    <url>https://github.com/Mohammad9448/lib-b</url>
+</scm>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
