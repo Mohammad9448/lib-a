@@ -2,7 +2,7 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>io.github.Mohammad9448.pipeline.test</groupId>
+    <groupId>io.github.Mohammad9448</groupId>
     <artifactId>lib-a</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
