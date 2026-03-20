@@ -29,9 +29,9 @@
     </developers>
 
 <scm>
-    <connection>scm:git:https://github.com/Mohammad9448/lib-b.git</connection>
-    <developerConnection>scm:git:https://github.com/Mohammad9448/lib-b.git</developerConnection>
-    <url>https://github.com/Mohammad9448/lib-b</url>
+    <connection>scm:git:https://github.com/Mohammad9448/lib-a.git</connection>
+    <developerConnection>scm:git:https://github.com/Mohammad9448/lib-a.git</developerConnection>
+    <url>https://github.com/Mohammad9448/lib-a</url>
 </scm>
 
     <properties>
