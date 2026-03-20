@@ -8,6 +8,7 @@
     <groupId>io.github.Mohammad9448.pipeline.test</groupId>
     <artifactId>lib-a</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>jar</packaging>
 
     <name>lib-a</name>
     <description>Minimal test library lib-a</description>
@@ -33,8 +34,25 @@
         <url>https://github.com/Mohammad9448/lib-a</url>
     </scm>
 
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.compiler.release>17</maven.compiler.release>
+    </properties>
+
     <dependencies>
-        
     </dependencies>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.11.0</version>
+                <configuration>
+                    <release>17</release>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
 
 </project>
