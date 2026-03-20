@@ -4,7 +4,7 @@
 
     <groupId>io.github.Mohammad9448.pipeline.test</groupId>
     <artifactId>lib-a</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.2</version>
     <packaging>jar</packaging>
 
     <name>lib-a</name>
@@ -29,7 +29,7 @@
     <connection>scm:git:https://github.com/Mohammad9448/lib-a.git</connection>
     <developerConnection>scm:git:https://github.com/Mohammad9448/lib-a.git</developerConnection>
     <url>https://github.com/Mohammad9448/lib-a</url>
-  <tag>HEAD</tag>
+  <tag>lib-a-0.0.2</tag>
   </scm>
 
     <properties>
