@@ -27,7 +27,7 @@
 
 <scm>
     <connection>scm:git:https://github.com/Mohammad9448/lib-a.git</connection>
-    <developerConnection>scm:git:https://github.com/Mohammad9448/lib-a.git</developerConnection>
+<developerConnection>scm:git:git@github.com:Mohammad9448/lib-a.git</developerConnection> 
     <url>https://github.com/Mohammad9448/lib-a</url>
   <tag>HEAD</tag>
   </scm>
